@@ -1,15 +1,8 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+# Destini-Flutter
 
+A simple flutter application.
+The app Allows the user to choosr the outcome of a story.
 
-# Destini 🤔
+This app was created along with the course 'The Complete 2020 Flutter Development Bootcamp with Dart'.
 
-## Our Goal
-
-In this challenge, you will be building a choose your own adventure game like Bandersnatch. In the process, you should apply your knowledge from the last module (Quizzler) to use Dart OOP principles to build a well organised project.
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/Destini.gif)
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+![Webp net-resizeimage](https://user-images.githubusercontent.com/22684921/80015785-8655f400-84d2-11ea-9536-fd3933abff54.png)
